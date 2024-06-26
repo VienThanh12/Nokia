@@ -59,3 +59,4 @@
 - Reload VSCode → Ctrl + shift + P
 - Run `curl <http://helsinki.fi`> (To get the output)
 - `mkdir /usr/src/app` (Creates directory)
+
