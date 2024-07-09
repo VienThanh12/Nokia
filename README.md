@@ -15,7 +15,6 @@ We will work on a lot of things like:
 
 Large Language Model
 
-
 RAG
 
 Fine-tuning
