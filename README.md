@@ -8,6 +8,7 @@ Projects @Nokia
 2. Nokia LLM Benchmark: Develop a dataset of questions/tasks with known good answers and a framework to measure the performance of different LLMs, prompts, and recipes in mobile network use cases.
 
 3. Support GenAI Projects: Assist GenAI projects by solving sub-problems of choice, writing small programs/recipes to enable bigger progress, and creating benchmark questions for LLMs.
+
  
 Tech Stack: Python for backend, React for frontend, or variations of React-style programming.
 
