@@ -9,7 +9,7 @@ Projects @Nokia
 
 3. Support GenAI Projects: Assist GenAI projects by solving sub-problems of choice, writing small programs/recipes to enable bigger progress, and creating benchmark questions for LLMs.
 
- 
+
 Tech Stack: Python for backend, React for frontend, or variations of React-style programming.
 
 We will work on a lot of things like: 
