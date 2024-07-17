@@ -17,7 +17,6 @@ Large Language Model
 
 RAG
 
-
 Fine-tuning
 
 Container (Docker)
