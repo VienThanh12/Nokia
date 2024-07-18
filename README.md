@@ -11,6 +11,7 @@ Projects @Nokia
 
 Tech Stack: Python for backend, React for frontend, or variations of React-style programming.
 
+
 We will work on a lot of things like: 
 
 Large Language Model
