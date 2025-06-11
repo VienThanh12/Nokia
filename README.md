@@ -31,3 +31,7 @@ Docker
 
 Containers
 
+Athena Advisory
+This sub-team is dedicated to coaching, incubating, and rapidly prototyping a variety of GenAI use cases within CNS (internal initiatives) and with strategic lead customers (external projects). Occasionally, the team also experiments with new approaches to address the unique requirements of different use cases.
+
+The primary goal of Athena Advisory is to accelerate the development pipeline of promising use cases, with an emphasis on prioritization, consolidation of similar projects, and broad dissemination of GenAI skills across the organization.
